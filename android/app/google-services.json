@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "522917600416",
+    "firebase_url": "https://shop-app-8edfd.firebaseio.com",
+    "project_id": "shop-app-8edfd",
+    "storage_bucket": "shop-app-8edfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522917600416:android:ee2a0ed5180c8e72247dc5",
+        "android_client_info": {
+          "package_name": "m.elshenawy.shopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522917600416-3cv37dtu4gjaf3mfcvmmucfspt0o75i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlJ-2-M1mg_VeqpWQ6wRLYy58MJvw5QIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522917600416-3cv37dtu4gjaf3mfcvmmucfspt0o75i2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
