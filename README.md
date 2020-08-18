@@ -21,7 +21,7 @@ This is a Shop App
 - Storing , Fetching , Delete And Updating Data By Sending Http Requests To Database
 
 # Screenshots 
-There are Some Screenshots to Show How My App Look. Open Screenshots Folder To See More Pictures
+There are Some Screenshots to Show How My App Look. Open Screenshots Folder To See More Pictures(App/Firebase Pictures) 
 
 ![](Screenshots/1.png)
 ![](Screenshots/2.png)
