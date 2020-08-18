@@ -5,11 +5,11 @@ This is a Shop App
 # Tools
 - State Management & Provider
 - MVC Design Pattern
-- Intl Package
+- Firebase (Realtime Database)
 - Firebase Core Package
 - Cloud Firestore Package
+- Intl Package
 - Http Package
-- Firebase (Realtime Database)
 
 # Features
 - Connecting With Database
