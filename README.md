@@ -15,7 +15,7 @@ This is a Shop App
 - Connecting With Database
 - Retrieve Data From Database 
 - Interacting With The User And Collecting Data
-- Fetch User Input Via Forms And Input Valdiation
+- Fetch User Input Via Forms And Input Validation
 - Managing Data And The UI Efficiently
 - Interacting With Web Servers
 - Storing , Fetching , Delete And Updating Data By Sending Http Requests To Database
