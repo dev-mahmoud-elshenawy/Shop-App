@@ -9,7 +9,7 @@ This is a Shop App
 - Firebase Core Package
 - Cloud Firestore Package
 - Http Package
-- Firebase
+- Firebase (Realtime Database)
 
 # Features
 - Connecting With Database
